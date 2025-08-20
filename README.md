@@ -14,7 +14,8 @@ This pipeline shows that even with the modern big data tools, Spark, combined wi
 - Seaborn  
                  
  ## SUMMARY:
- -Utilized the historical data from kaggle.com.
- -Collected 3 datasets of online transactions, loan and customer credit card.
- -Implemented Spark Session to load the data into Data Frames.
- -Used standalone cluster mode in spark environment to run on Spark SQL queries.
+- Utilized historical datasets sourced from **Kaggle**.  
+- Collected and analyzed **three datasets**: online transactions, loans, and customer credit cards.  
+- Implemented **Spark Session** to load data into Spark DataFrames.  
+- Executed **Spark SQL queries** in standalone cluster mode for efficient computation.  
+- Applied **data cleaning, structuring, and visualization** techniques to derive insights.  
