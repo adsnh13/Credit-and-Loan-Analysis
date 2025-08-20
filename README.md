@@ -1,8 +1,10 @@
 # ONLINE BANKING ANALYSIS
 
-This is the first project where we worked on apache spark, In this project what we have done is that we downloaded the datasets from KAGGLE where everyone is aware of, we have downloaded loan, customers credit card and transactions datasets . After downloading the datsaets we have cleaned the data . Then after by using new tools and technologies like spark, HDFS, Hive and many more we have executed new use cases on the datasets, that we have downloaded from kaggle. As we all know apache spark is a framework that can quickly process the large datsets.
-                            
- So now let me explain the dataflow of how we have done is, first primarly we have ingested the data that is , we retrieved the data and then downloaded the datasets from kaggle and then we stored this datasets in cloud storage and imported from MYSQL to hive by sqoop this is how we have ingested the data , second after ingesting the data we have processed the large datasets in hive and then we have analyzed the data using pyspark in jupyter notebook by implementing several use cases.
+TThis is a project in which the development of an end-to-end big data pipeline based on Apache Spark has taken place. The datasets were from the Kaggle consisting of loan, customer credit card and transaction data, which were cleaned to be accurate and ready to be analysed.
+
+The workflow employed the use of Spark, HDFS, Hive and Sqoop to manage and work on large data volumes effectively. Data was absorbed through the process of getting it on Kaggle, putting it in a cloud storage system and then importing it into Hive via MySQL with Sqoop. Data that have been processed were structured in Hive, and the advanced analytics were carried out in PySpark on the Jupyter Notebook by applying several use cases.
+
+This pipeline shows that even with the modern big data tools, Spark, combined with them, can be used to quickly process, format and analyze large data sets.
                             
  ## TECHNOLOGIES USED:
  Spark SQL
