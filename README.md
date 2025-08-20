@@ -7,12 +7,12 @@ The workflow employed the use of Spark, HDFS, Hive and Sqoop to manage and work 
 This pipeline shows that even with the modern big data tools, Spark, combined with them, can be used to quickly process, format and analyze large data sets.
                             
  ## TECHNOLOGIES USED:
- Spark SQL
- Spark
- Seaborn
- Matplotlib
- Pandas
-                          
+- Apache Spark (Spark SQL, Spark Core)  
+- PySpark (Jupyter Notebook)  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+                 
  ## SUMMARY:
  Utilized the historical data from kaggle.com.
  Collected 3 datasets of online transactions, loan and customer credit card.
